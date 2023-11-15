@@ -1,4 +1,4 @@
-import { Professional } from "./Professional";
+import { Professional } from "./professional";
 export class Movie {
     public title: string;
     public releaseYear: number;
